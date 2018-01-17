@@ -2,17 +2,10 @@ package chess;
 
 import java.util.*;
 
-/*
-Name: Aiden Osipenko
-Student #: 5853874
- */
 /**
  * *IF YOU WANT TO CHANGE WHERE THE PIECES ARE INITIALIZED TO*** Go to the
  * initBoard() method in the Board class (line 286) and change x and y for
  * whatever piece you want to move to the coordinates you want it to be placed.
- * I figured this would be easier for you than entering the coordinates for all
- * 32 pieces, one at a time (and easier for me than trying to figure out a
- * non-stupid way of doing file input).
  */
 public class Main {
 
